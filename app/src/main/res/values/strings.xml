@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Nobel Calculetor</string>
+    <string name="button_text_1">1</string>
+    <string name="button_text_2">2</string>
+    <string name="button_text_3">3</string>
+    <string name="button_text_4">4</string>
+    <string name="button_text_5">5</string>
+    <string name="button_text_6">6</string>
+    <string name="button_text_7">7</string>
+    <string name="button_text_8">8</string>
+    <string name="button_text_9">9</string>
+    <string name="button_text_0">0</string>
+    <string name="button_text_11">=</string>
+    <string name="button_text_12">.</string>
+    <string name="button_text_13">+</string>
+    <string name="button_text_14">-</string>
+    <string name="button_text_15">*</string>
+    <string name="button_text_16">/</string>
+    <string name="button_text_17">D</string>
+    <string name="button_text_18">(</string>
+    <string name="button_text_19">)</string>
+    <string name="button_text_20">%</string>
+
+
+
+</resources>
